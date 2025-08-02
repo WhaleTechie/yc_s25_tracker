@@ -15,11 +15,14 @@ DATA_FILES = {
 }
 
 def run_script(script_name):
-    """Run a Python script using the current interpreter and capture output."""
+    env = os.environ.copy()
+    env["SERPAPI_API_KEY"] = st.secrets["SERPAPI_API_KEY"]  # inject the API key here
+
     try:
         result = subprocess.run(
-            [sys.executable, script_name], 
-            check=True, capture_output=True, text=True
+            [sys.executable, script_name],
+            check=True, capture_output=True, text=True,
+            env=env
         )
         return result.stdout
     except subprocess.CalledProcessError as e:

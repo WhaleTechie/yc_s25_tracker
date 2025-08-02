@@ -1,21 +1,20 @@
 import os
 import json
 import re
-from serpapi import GoogleSearch  # SerpAPI Python client
-
-API_KEY = os.getenv("SERPAPI_API_KEY")  # Set your SerpAPI API key as env var
+import streamlit as st
+from serpapi import GoogleSearch
 
 def has_s25_postfix(text):
     return bool(re.search(r"\(?\s*(yc\s*)?s25\s*\)?", text, re.IGNORECASE))
 
-def serpapi_bing_search_s25_companies(query):
-    if not API_KEY:
+def serpapi_bing_search_s25_companies(query, api_key):
+    if not api_key:
         raise ValueError("SERPAPI_API_KEY environment variable not set")
 
     params = {
         "engine": "bing",
         "q": query,
-        "api_key": API_KEY,
+        "api_key": api_key,
         "count": 20
     }
 
@@ -24,7 +23,6 @@ def serpapi_bing_search_s25_companies(query):
 
     found_companies = []
 
-    # Parse organic results
     organic_results = results.get("organic_results", [])
     for result in organic_results:
         link = result.get("link", "")
@@ -44,6 +42,11 @@ def serpapi_bing_search_s25_companies(query):
     return found_companies
 
 def main():
+    api_key = st.secrets.get("SERPAPI_API_KEY")
+    if not api_key:
+        st.error("SERPAPI_API_KEY is not set in secrets.")
+        return
+
     queries = [
         'site:linkedin.com/company "YC S25"',
         'site:linkedin.com/company "S25"'
@@ -51,11 +54,11 @@ def main():
 
     all_new_companies = []
     for query in queries:
-        found_companies = serpapi_bing_search_s25_companies(query)
+        found_companies = serpapi_bing_search_s25_companies(query, api_key)
         all_new_companies.extend(found_companies)
 
-    # Save or process all_new_companies as needed
-    print(json.dumps(all_new_companies, indent=2))
+    st.write("Found companies:")
+    st.json(all_new_companies)
 
 if __name__ == "__main__":
     main()

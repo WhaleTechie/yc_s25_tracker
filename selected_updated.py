@@ -13,18 +13,11 @@ from bs4 import BeautifulSoup
 import re
 import sys
 import subprocess
+from webdriver_setup import create_driver
 
 # --- Driver Setup ---
 def setup_driver():
-    chrome_options = Options()
-    #chrome_options.add_argument("--headless=new")  # Use normal mode if you want to debug
-    chrome_options.add_argument("--disable-gpu")
-    chrome_options.add_argument("--window-size=1920,1080")
-    chrome_options.add_argument("--log-level=3")
-
-    driver_path = r"C:\Users\L450 User\Documents\chromedriver-win64\chromedriver-win64\chromedriver.exe"
-    service = Service(driver_path)
-    return webdriver.Chrome(service=service, options=chrome_options)
+    return create_driver()
 
 # --- Helpers ---
 def random_delay(min_seconds=3, max_seconds=7):

@@ -27,3 +27,10 @@ Run LinkedIn-only search to find companies mentioning YC S25 on LinkedIn but mis
 - Google searches for LinkedIn pages also tend to get blocked or rate-limited.
 - To work around this, the project uses Bing for searching LinkedIn pages, combined with delays (`sleep`) between requests to avoid getting blocked.
 - Despite these efforts, some data may be missing due to these restrictions.
+- SerpAPI Integration for Search
+This project uses SerpAPI to perform Bing searches for YC S25 startups and extract LinkedIn company profiles efficiently, replacing slower and more fragile Selenium scraping. But its limited with 500 requests per month
+
+**Live Demo**
+Check out the live version of the YC S25 Startups Tracker app here:
+
+🔗 https://ycs25lidia.streamlit.app/

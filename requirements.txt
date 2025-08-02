@@ -1,0 +1,14 @@
+# Basic HTTP and JSON handling
+requests==2.32.4
+certifi==2025.7.14
+charset-normalizer==3.4.2
+idna==3.10
+urllib3==2.5.0
+googlesearch-python
+beautifulsoup4==4.12.3
+lxml==5.2.1
+streamlit==1.35.0
+webdriver-manager
+thefuzz[speedup]
+undetected-chromedriver
+fake-useragent

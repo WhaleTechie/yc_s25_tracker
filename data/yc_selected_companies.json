@@ -1,0 +1,1162 @@
+[
+  {
+    "name": "Nox Metals",
+    "website": "https://noxmetals.co/",
+    "batch": "Summer 2025",
+    "description": "Nox Metals is building the fastest processing metals factory in North America. Our software runs quoting, scheduling, and operations to streamline production and reduce cost. We supply CNC shops with custom-cut material at unmatched speed and efficiency.",
+    "location": "",
+    "industry": "Industrials",
+    "team_size": 1,
+    "yc_url": "https://www.ycombinator.com/companies/nox-metals"
+  },
+  {
+    "name": "Blue",
+    "website": "https://heyblue.com/",
+    "batch": "Summer 2025",
+    "description": "Blue is the first voice assistant that can control every app on your phone.\r\n\r\nMost assistants today, such as Siri, Alexa, or Gemini, are limited to narrow functions like setting timers or answering questions. They cannot message your friends on Messenger, send money on Venmo, or compare ride-share prices to book the best option.\r\n\r\nBlue can do all of this and more.\r\n\r\nIt taps, swipes, and types like a human on both Android and iPhone, so it doesn't need any app-specific integrations. This is made possible through a voice-first computer-use model as well as a custom hardware. \r\n\r\nIt already works in the real world. Users are texting, shopping, and navigating their phones completely hands-free. People who are commuting, cooking, or multitasking are using Blue to reclaim meaningful time during their day.\r\n\r\nOur team brings rare and highly complementary experience. Omar led Google Assistant’s transition to LLMs and holds one of the earliest patents in LLM-based computer control. Peter brings decades of experience designing and building voice-first dialog systems, holds multiple design patents, and was most recently the design lead at Google DeepMind serving actions on the Gemini Live model. Farhan helped ship Apple’s Vision Pro and holds more than 50 patents in hardware and systems design. He's also led several products end-to-end from early prototyping to mass production and global fulfillment.\r\n\r\nTogether, we have built systems used by billions of people and are now building something even more fundamental: re-inventing the way we use and interact with technology.",
+    "location": "Santa Clara, CA, USA",
+    "industry": "Consumer",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/blue"
+  },
+  {
+    "name": "Uplift AI",
+    "website": "https://upliftai.org/",
+    "batch": "Summer 2025",
+    "description": "We build speech understanding and speech generation models for the five major languages spoken in Pakistan, where 42% of the adult population can not read any language. \r\n\r\nPakistan is the 5th most populous country in the world with a $411 billion GDP. Yet its overlooked and no practical voice models exist for the local languages.\r\n\r\nWith our APIs and SDKs, businesses offer high-quality voice interfaces in domains like banking, agriculture, healthcare, and government services. This enables them to finally offer digital services to every customer -- often for the first time.\r\n\r\nOur founding team has a decade of experience building world-leading voice products, including at Alexa and Siri. We have launched entire AWS services; and software written by us previously is used by millions daily.\r\n\r\nWe do in-house research and development. We gather our own data, then train and deploy our own models. We own our technology stack end-to-end.\r\n\r\nWe are on a mission to uplift entire nations through better access to digital information and digital services.",
+    "location": "",
+    "industry": "B2B",
+    "team_size": 5,
+    "yc_url": "https://www.ycombinator.com/companies/uplift-ai"
+  },
+  {
+    "name": "RealRoots",
+    "website": "http://www.therealroots.com",
+    "batch": "Summer 2025",
+    "description": "RealRoots is a mobile app that guarantees women lifelong friendships. After a quick 10-minute survey, we match each user with compatible friends nearby. From there, our AI assistant plans thoughtful, recurring hangs - so her social calendar stays full of meaningful connection.",
+    "location": "",
+    "industry": "Consumer",
+    "team_size": 4,
+    "yc_url": "https://www.ycombinator.com/companies/realroots"
+  },
+  {
+    "name": "Luminal",
+    "website": "https://luminalai.com",
+    "batch": "Summer 2025",
+    "description": "Luminal builds an ML framework and compiler that generates GPU code.\r\nOur stack 10x's model speed while simplifying deployment and cutting idle GPU costs\r\n\r\nGithub: https://github.com/jafioti/luminal\r\nDiscord: https://discord.gg/2Mxur3CgYT",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/luminal"
+  },
+  {
+    "name": "Veritus Agent",
+    "website": "http://veritusagent.ai",
+    "batch": "Summer 2025",
+    "description": "Veritus is a platform for deploying AI agents for loan servicing and collections, including inbound and outbound voice agents. Our agents negotiate repayment plans, follow up across channels, and drive recoveries with zero human involvement.\r\n\r\nWe license our platform to lenders and collections agencies, and we're also in the process of getting licensed in all 50 states to enable our own third-party collections and debt buying. By combining cutting edge voice AI with deep regulatory compliance and vertical specialization we're able to drastically reduce the cost-to-collect while increasing recovery rates. ",
+    "location": "San Francisco, CA, USA",
+    "industry": "Fintech",
+    "team_size": 5,
+    "yc_url": "https://www.ycombinator.com/companies/veritus-agent"
+  },
+  {
+    "name": "Outrove",
+    "website": "https://www.outrove.ai/",
+    "batch": "Summer 2025",
+    "description": "We’re building the next-generation sales and marketing automation platform, designed for how B2B go-to-market will work in the AI era.\r\n\r\nAs channels and content formats shift dramatically, we’ll be the OS companies rely on to power their future GTM strategies.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/outrove"
+  },
+  {
+    "name": "Vulcan Technologies",
+    "website": "https://www.vulcan-tech.com/",
+    "batch": "Summer 2025",
+    "description": "Vulcan primarily offers two different AI services for two different constituencies:\r\n1) Automatic regulatory drafting for executive branch agencies in government and \r\n2) Regulatory compliance and comment for industry\r\nBeneath these tools is a proprietary system that we call \"intelligent legal cartography,\" an automatic mapping of relationships between statutes, regulations, and case law. In short: Vulcan equips agencies to comply with changing state and federal law, and enables business to comment, contest, and comply with regulatory requirements.",
+    "location": "",
+    "industry": "B2B",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/vulcan-technologies"
+  },
+  {
+    "name": "Interfere",
+    "website": "https://interfere.com",
+    "batch": "Summer 2025",
+    "description": "",
+    "location": "",
+    "industry": "B2B",
+    "team_size": 1,
+    "yc_url": "https://www.ycombinator.com/companies/interfere"
+  },
+  {
+    "name": "TectoAI",
+    "website": "https://www.tecto.ai/",
+    "batch": "Summer 2025",
+    "description": "We help your company identify roles that can be filled by agentic AI tools, onboard them quickly, monitor their performance and behavior post deployement, ensure they remain compliant, and aligned with regulations. Tecto is building the HR system for managing your AI employees! ",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/tectoai"
+  },
+  {
+    "name": "Anytrace",
+    "website": "http://anytrace.ai/",
+    "batch": "Summer 2025",
+    "description": "Anytrace is the first AI agent that automates the end-to-end workflow of a support engineer. Our agent resolves technical support tickets by interacting with customers, investigating root causes, and tracking issues to completion.\r\n\r\nSam (CEO) was previously the co-founder and CEO of a DevOps platform that raised $2M. Taira (CTO) was the youngest SDE 2 at AWS Sagemaker Inference. We have over five years of experience handling technical support for customers ranging from small startups to Fortune 500 companies like Salesforce.\r\n\r\nWe came into YC with just an idea, and we already have our first pilot customer paying $5 per support ticket.\r\n\r\nEssentially every B2B software company devotes engineering time to support, and our goal is to automate this away.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/anytrace"
+  },
+  {
+    "name": "Perspectives Health",
+    "website": "https://perspectiveshealth.ai/",
+    "batch": "Summer 2025",
+    "description": "",
+    "location": "San Francisco, CA, USA",
+    "industry": "Healthcare",
+    "team_size": 4,
+    "yc_url": "https://www.ycombinator.com/companies/perspectives-health"
+  },
+  {
+    "name": "Modelence",
+    "website": "https://modelence.com",
+    "batch": "Summer 2025",
+    "description": "You built the demo in a weekend. Now you need auth, a prod-grade database, real-time events, AI observability, cron jobs, email, monitoring… and you needed them yesterday.\r\n\r\nWe spent a decade at our previous startup, building a platform while scaling to millions of users and customers like Meta & Netflix. Now we put that into an open-source framework, so others wouldn’t have to do the same from scratch.\r\n\r\nModelence is a batteries-included framework that abstracts away boilerplate so you can just focus on building your product logic and nothing else - it’s like Next.js + Vercel + Supabase on a single platform, built for full-stack TypeScript.\r\n\r\nShipping production apps is much harder than building a prototype that runs locally and 95% of all production apps share the same building blocks. We did a massive amount of work on our previous platforms that was not specific to our product, and we’ve created Modelence to abstract that away:\r\n- Authentication\r\n- Database setup\r\n- Hosting / CDN\r\n- AI integration (LLM observability, prompts)\r\n- Real-time events\r\n- Cron jobs\r\n- Email service\r\n- Monitoring\r\n- Analytics\r\n- Admin dashboards\r\n\r\nAndrej Karpathy recently posted about this same exact problem:\r\nhttps://x.com/karpathy/status/1905051558783418370\r\n\r\nand explained it further in his YC AI Startup School talk:\r\nhttps://youtu.be/LCEmiRjPEtQ?feature=shared&t=1940",
+    "location": "San Francisco, CA, USA; Remote",
+    "industry": "B2B",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/modelence"
+  },
+  {
+    "name": "Magnetic",
+    "website": "https://www.magnetictax.com",
+    "batch": "Summer 2025",
+    "description": "Magnetic scans client documents - from handwritten charity notes to excel spreadsheet Schedule Cs to multi-state K-1s - and enters them into tax software automatically, saving hours of tedious data entry. \r\n\r\nThe accounting profession is facing a massive talent shortage, as graduates choose different professions and the old guard begins to retire. As a result, CPA and tax preparation firms are awash in clientele, but unable to keep up. At many firms, phones go unanswered, clients are \"fired\", and websites are taken down, as the existing workforce tries to handle the grueling 80 hour+ weeks necessary to push through tax season to the April 15th deadline.\r\n\r\nWe built this because a former colleague who owns her own tax firm asked us to automate her workload, and we quickly realized the massive opportunity. Thomas brings deep domain expertise as the former Head of Product at Keeper (YC W19), where he built tax engine automation systems and an OCR form scanning system that outperformed everything else on the market. At Keeper, he leveraged early access to OpenAI's LLMs (well before ChatGPT) to build systems that automated the entire tax filing process, allowing a tiny team of CPAs to process thousands of returns with near zero busy work. Patrick was the first engineer at FunCraft, shipping multiple mobile games with 1M+ downloads and building scalable shared codebases. We've worked together since 2017, including co-leading multiple teams at Zynga as PM & Tech Lead respectively.\r\n\r\nWe launched this year in the middle of tax season and quickly processed hundreds of returns, earning thousands in ARR, and since tax season we've been growing customers by >30% month-over-month. We've completely automated over 25% of the return process so far and developed a proprietary vision model that beats incumbent scanning technology by almost 2x on accuracy - jumping from 50% field-level accuracy to 89%, approaching the quality of their expensive human-verified service at 92%.\r\n\r\nThe opportunity is massive - there are 80M US personal tax returns filed via professionals annually, in a $2B outsourcing market where individual CPA firms currently pay $100k-$1M per year for inferior services. We're positioned to capture significant market share by offering better accuracy & document coverage, instant processing, and superior user experience.\r\n\r\nWe've built this kind of software before, we've worked together for years (and even lived together), we've built products to $10M ARR before, and we have the grit to outwork anyone in this space.",
+    "location": "",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/magnetic"
+  },
+  {
+    "name": "stagewise",
+    "website": "https://stagewise.io",
+    "batch": "Summer 2025",
+    "description": "stagewise is the first frontend coding agent for existing production-grade web apps. It lives right inside your browser, makes changes in your local codebase and is compatible with all kinds of frameworks and setups - allowing it to be retrofitted into any existing project.\r\n\r\nOur agent enables you to show and tell what you want to change - all while using your app on localhost and without having to switch to external tools. Making changes is as easy as selecting elements, giving a simple prompt like “make it green and put it in the top right corner”, and immediately seeing the result.\r\n\r\nWe're two founders from Germany who met while working at a B2B SaaS startup. With backgrounds in both enterprise engineering (Rheinmetall, dSPACE) and building web apps used by thousands, we have the unique blend of discipline and product sense needed to build this.\r\n\r\nAfter making our initial launch with the open-sourced toolbar that puts your favorite coding agent right inside your browser and going viral with it, we’re now launching a high-speed coding agent dedicated to frontend development - taking our product and the experience of our users to the next level.\r\n\r\nOur vision is to empower anyone to create well-designed applications, regardless of their technical skill. We start with developers who lack design experience, but our ultimate goal is to change how products are built. stagewise will enable non-technical stakeholders - product managers, designers, and marketers - to directly iterate on the UI themselves, creating a new, collaborative workflow and making us the essential tool for building on the web.",
+    "location": "Bielefeld, NRW, Germany",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/stagewise"
+  },
+  {
+    "name": "Flywheel AI",
+    "website": "https://useflywheel.ai/",
+    "batch": "Summer 2025",
+    "description": "Flywheel AI converts any existing excavators for contractors to enable remote ops to increase safety and productivity, and use robotics context dataset to train autonomous policies.",
+    "location": "",
+    "industry": "Industrials",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/flywheel-ai"
+  },
+  {
+    "name": "Juxta",
+    "website": "https://usejuxta.org",
+    "batch": "Summer 2025",
+    "description": "Juxta is creating the first Universal Positioning System (UPS) — a GPS alternative that can monitor movement anywhere on earth with no new hardware, minimal internet connection, and remote deployment. Using custom machine learning models and a first-of-its-kind synthetic fingerprinting technology, Juxta can make any indoor, outdoor, or underground space location-aware in minutes for a fraction of the cost of any other geospatial technology.\r\n\r\nJuxta's UPS can be leveraged across industries — from securely tracking soldiers in combat zones to providing offline positioning for robots to offering asset tracking in warehouses and ports around the globe.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": null,
+    "yc_url": "https://www.ycombinator.com/companies/juxta"
+  },
+  {
+    "name": "Okibi",
+    "website": "https://okibi.ai",
+    "batch": "Summer 2025",
+    "description": "Whether you're building an internal workflow automation to remove repetitive or time consuming tasks, or launching your own product with Agents, Okibi can help you build it.\r\n\r\nBuilding AI agents typically requires complex, time-consuming setup, including tool calling, LLM syntax management, multi-agent orchestration, browser use, evals, and hosting deployments.\r\n\r\nOur web app provides a chat interface and toolkit to easily create agents. Just describe your agent in natural language, similar to vibecoding, and our app automatically generates your agent's architecture, tool calls, human in the loop, browser user, and runs evals on your agent.\r\n\r\nThis approach significantly reduces development complexity and time.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/okibi"
+  },
+  {
+    "name": "dScribe AI",
+    "website": "https://dscribeai.com/",
+    "batch": "Summer 2025",
+    "description": "dScribe AI uses autonomous drones and 3D vision to track bulk inventory. We're starting by helping the ag and mining industry track stockpiles of grain and gravel.\r\n\r\nBulk inventory tracking is broken. Companies either rely on guesstimates or pay for expensive manual surveys which are still off by 20 to 30%. Without accurate numbers, it’s hard to plan logistics, like how many truckloads are needed. And it creates accounting issues by misreporting inventory value, hurting financial planning and leading to missed opportunities.\r\n\r\nWe’ve lived this problem, and we know how to solve it. Warren saw it firsthand as a Product Manager at Milk Moovement, a $20M Series A AgTech startup, working closely with feed suppliers and farm managers. Jordan scaled Microsoft Azure’s largest public API, handling over 700M requests/month, and sold software to a public company. Cole was engineer #3 at Tropic, scaling it from seed to Series B, and later led engineering at an AI startup.\r\n\r\nWe’ve built an integrated hardware and software platform that’s now being piloted by some of the largest agriculture and construction companies in North America. As industries demand real-time visibility into the physical world, dScribe AI is positioned to become the system of record for inventory that don’t fit in traditional boxes and barcodes.\r\n\r\n\r\n",
+    "location": "Overland Park, KS, USA",
+    "industry": "B2B",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/dscribe-ai"
+  },
+  {
+    "name": "Kernel",
+    "website": "https://www.onkernel.com/",
+    "batch": "Summer 2025",
+    "description": "Kernel is the best place in the world to launch web agents and browser automations. We handle the hard parts of running browser infrastructure in the cloud so you don’t have to: spinning up browsers quickly, responsive read/write live view, logs, headless vs. headful mode, replays, residential proxies, and more. Our API allows developers to instantly launch browsers in the cloud, so you can focus on your core product logic rather than the infra underneath.\r\n\r\nOur customers use Kernel to launch QA agents, vertical-specific agents that automate back office processes, and more.\r\n\r\nWe're open source, HIPAA-compliant (SOC2 Type 2 pending), & compatible with every browser/web agent framework (Playwright, Puppeteer, CUA, Browser Use, Magnitude, etc). Check us out —> https://github.com/onkernel/kernel-images",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 5,
+    "yc_url": "https://www.ycombinator.com/companies/kernel"
+  },
+  {
+    "name": "Reacher",
+    "website": "https://reacherapp.com/",
+    "batch": "Summer 2025",
+    "description": "Reacher automates affiliate marketing for enterprise brands, replacing teams of 5+ people with AI-powered creator discovery, outreach, and management. \r\n\r\nTrusted by brands driving $20M+ in GMV, we're building the largest marketplace where creators access premium deals guided by an AI talent manager, while brands access our vetted network of top creators.",
+    "location": "San Francisco, CA, USA; Remote",
+    "industry": "B2B",
+    "team_size": 8,
+    "yc_url": "https://www.ycombinator.com/companies/reacher"
+  },
+  {
+    "name": "Certus AI",
+    "website": "https://www.certus-ai.com/",
+    "batch": "Summer 2025",
+    "description": "Certus AI is replacing the restaurant phone line with Voice AI.\r\n\r\nRestaurants lose up to $100,000 per year per location from missed calls, lost orders, and abandoned hold lines. Staff are overwhelmed. IVRs frustrate customers. Call centers are expensive and impersonal.\r\n\r\nIt’s 2025. Guests don’t leave voicemails or wait on hold. They just move on.\r\n\r\nCertus is an AI voice agent built for restaurants. It answers every call, 24/7 — taking orders, processing deliveries, booking reservations, upselling, and handling complaints in English, Spanish, French and more. Certus is built to manage the phone line end to end, from the customer call to the restaurant tech stack, with zero human intervention required. It currently integrates with industry-leading systems like Toast, Square, Clover, UberEats, DoorDash, and more.\r\n\r\nWe’re building the voice layer of the modern restaurant — the employee they’ll never fire.\r\n\r\nWe started Certus because we lived the pain. Gurveer (CEO) grew up answering phones in his family’s restaurant and helped operate them, growing from 1 to 11 locations in 7 years. Later, he and Adam (CRO) ran a restaurant growth startup to help others increase revenue, but kept watching clients bleed cash because no one picked up the phone. So we built the solution the industry always wished existed.\r\n\r\nUntil now, this problem was considered unsolvable. But Voice AI has finally crossed the conversational chasm and 72% of consumers now prefer AI over humans as long as it means faster and better service.\r\n\r\nMore importantly, the market is begging for this. The North American restaurant industry crossed $1 trillion in 2024, and it's projected to hit $1.5 trillion in 2025. Yet over $100 billion is still lost annually to missed calls, human error, and outdated tech. As the market continues to grow, so do the losses!\r\n\r\nOur customers say it best:\r\n\r\n- “Certus changed my life overnight.”\r\n- “We were losing the ability to give great in-house service — the phone was killing us.”\r\n-  “70% of my business comes through the phone. That’s mine and my 16 staffs livelihood.”\r\n- “Before Certus, I used to lose 40 - 60 calls a day…. now my printer just stays printing!”\r\n-  “I’ve been in the business 38 years. I’ve been waiting for this since then.”\r\n\r\nCertus is here to fix the $120B phone problem — one call at a time.\r\n\r\nAnd in doing so, we’re redefining how the restaurant industry communicates forever, starting with the phone line.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/certus-ai"
+  },
+  {
+    "name": "Hera",
+    "website": "https://hera.video/",
+    "batch": "Summer 2025",
+    "description": "Hera is an AI motion designer that turns 5-hour projects into 5-minute tasks. \r\n\r\nWhen you're a YouTuber making an infographic animation, instead of spending hours manually clicking buttons in Adobe After Effects, you can create the same animation in minutes in Hera. \r\n\r\nThrough talking to our users, we realized that 95% of time spent on motion graphics is manual button clicking, not creative work. This insight led us to focus on automating the tedious parts while giving the user all creative control.\r\n\r\nWe launched in May 2025, got 100k waitlist signups in 8 weeks, and we're doubling revenue monthly.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/hera-video"
+  },
+  {
+    "name": "Nottelabs",
+    "website": "https://www.notte.cc/",
+    "batch": "Summer 2025",
+    "description": "Nottelabs designs browsers using agents for enterprise. Focused on reliability and scalability, we convert websites into structured text APIs to power LLM-driven web scraping and workflow automation, with full support for stealth, vaults, and enterprise tooling.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 5,
+    "yc_url": "https://www.ycombinator.com/companies/nottelabs"
+  },
+  {
+    "name": "Pally",
+    "website": "https://pally.com",
+    "batch": "Summer 2025",
+    "description": "Hey 👋, we’re Haz and Wyatt, the founders of Pally, and we’re building at the intersection of AI and Human Relationships. \r\n\r\nWe believe that while AI will automate a lot of low-level tasks, that this will dramatically increase the value of human connection at the highest level.\r\n\r\nIn a world full of ‘AI SDRs’, our warm connections become more important than ever. \r\n\r\nYet today, keeping track of thousands of connections across countless social platforms is impossible. We forget to respond, we miss important moments, we lose touch.  \r\n\r\nWe’re building Pally to solve that. \r\n\r\nWe bring together every connection, across every platform. Our AI researches everything they’ve ever posted online, and uses its deep understanding of each person to help you achieve your goals; whether hiring, fundraising, or sales.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/pally"
+  },
+  {
+    "name": "Locata",
+    "website": "https://www.locatahealth.com/",
+    "batch": "Summer 2025",
+    "description": "Locata is an AI referral management platform for Health Centers. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.\r\n\r\nPrimary Care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.\r\n\r\nAlejandro and Josh met at Stanford where they graduated with BS degrees in CS. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in CS, specializing in AI, before working as a software engineer at Google, developing AI products that served over 1 billion users.\r\n\r\nIn just three weeks, we’ve secured $80K ARR and are in the process of taking our first customer live.",
+    "location": "New York, NY, USA",
+    "industry": "Healthcare",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/locata"
+  },
+  {
+    "name": "Convexia",
+    "website": "https://convexia.bio",
+    "batch": "Summer 2025",
+    "description": "An AI-maximalist pharma platform. We use agents to buy drugs, run clinical trials, and sell for a profit. 10x faster and 20x leaner than incumbents.\r\n\r\nSourcing Agent: Mines public/private databases and unstructured global data to surface overlooked preclinical candidates.\r\nScientific Agent: Runs comp bio models (ESM-3, RFdiffusion, MACE-MP-0) to assess safety and efficacy in silico.\r\nCommercial Agent: Analyzes FDA incentives, pricing dynamics, TAM, competitive landscape, and payer alignment.\r\nClinical Agent: Runs digital twin simulations, evaluates CRO/CMC risk, and builds trial plans to Phase 1.\r\nBD Agent: Summarizes and delivers company-tailored pitches. \r\n\r\nBuilt by 2 Stanford CS students who have built 3 startups together before. ",
+    "location": "San Francisco, CA, USA",
+    "industry": "Healthcare",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/convexia"
+  },
+  {
+    "name": "SigmanticAI",
+    "website": "https://www.sigmanticai.com",
+    "batch": "Summer 2025",
+    "description": "SigmanticAI is building an AI-native hardware development assistant that automates the entire RTL design flow, from natural language to synthesizable HDL and testbenches, inside a seamless VSCode fork. Powered by fine-tuned Verilog LLMs, reinforcement learning, and real compiler feedback, SigmanticAI iteratively refines code until it compiles and passes synthesis, no matter how complex the design. It’s like the Cursor for HDL design. \r\n\r\nIn addition to code generation, SigmanticAI can generate token-level annotations and onboarding documents to accelerate ramp-up for new engineers. With support for both cloud and on-prem deployment, it integrates with existing EDA tools to dramatically reduce debug time, improve collaboration, and accelerate hardware design across teams",
+    "location": "Dublin, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/sigmanticai"
+  },
+  {
+    "name": "Opennote",
+    "website": "https://opennote.com",
+    "batch": "Summer 2025",
+    "description": "Opennote is building an interactive AI tutor that gives every student a truly personalized learning experience.\r\n\r\nMost students never get to engage deeply with material in traditional classrooms or generic online tools. Opennote changes that by acting as a human-like, intuitive tutor—one that remembers your progress and adapts every session to how you learn best.",
+    "location": "San Francisco, CA, USA",
+    "industry": "Education",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/opennote"
+  },
+  {
+    "name": "Sira",
+    "website": "https://sira.team",
+    "batch": "Summer 2025",
+    "description": "Sira is the AI-powered platform for managing time tracking, scheduling, payroll, and HR — purpose-built for hourly teams.\r\n\r\nOur intelligent agents handle the manual, time-consuming tasks for you — like calling workers to fill open shifts, detecting timesheet anomalies, and streamlining payroll processing.\r\n\r\nWith Sira, businesses stay organized, compliant, and focused on what really matters — while we take care of the team.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 0,
+    "yc_url": "https://www.ycombinator.com/companies/sira"
+  },
+  {
+    "name": "F4",
+    "website": "https://f4.dev/",
+    "batch": "Summer 2025",
+    "description": "Built by former Tesla & SpaceX engineers, F4 is a platform that helps you catch and fix drawing compliance issues instantly. F4 ensures design engineers never release noncompliant drawings—and suppliers never misinterpret them. We help hardware teams eliminate costly scrap, rework, and miscommunication at the root.\r\n\r\nWith a compliant drawing, F4 generates end-to-end drawing interpretations for standard definitions, inspection plan, and tolerance analysis application.\r\n\r\nF4 automatically interprets all GD&T symbols, datums, and notes based on the correct standards - no more second-guessing or misreading intent. Everyone from design to manufacturing sees the same definition, keeping teams aligned and avoiding costly miscommunication.\r\n\r\nF4 generates a complete inspection plan straight from the drawing, so quality teams know exactly what to measure, how, and where. This eliminates manual setup, reduces delays during first article inspection, and helps catch issues before they reach production.\r\n\r\nF4 gives engineers everything they need from the drawing to set up a reliable tolerance analysis, including the critical stack-up paths,  applicable features, and rule exceptions. By making it easy to bridge engineering drawings to tolerance analysis, teams can catch potential fit or function issues early - before parts are fabricated and assembled.\r\n",
+    "location": "San Francisco, CA, USA",
+    "industry": "Industrials",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/f4"
+  },
+  {
+    "name": "Eden",
+    "website": "https://tryeden.ai",
+    "batch": "Summer 2025",
+    "description": "Eden allows e-commerce brands to use customer data effectively when running campaigns. We help marketing teams understand their customers' stories by using data from their store, sales, support tickets, and marketing channels to turn hesitant browsers into customers who buy.\r\n\r\nAlex and Jason met at TJHSST where they became nationally ranked debate partners and eventually coworkers at Datadog. Alex led operations at Phia, scaling to 100+ brand affiliate partners. Jason led retargeting ads at Reddit and previously sold an AI recruiting startup.\r\n\r\nExisting marketing data sits in silos, underutilized. AI enables marketers to unlock a treasure trove of data to create more effective campaigns in a fraction of the time. We will make every marketing department data-driven.",
+    "location": "New York, NY, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/tryeden"
+  },
+  {
+    "name": "Altur",
+    "website": "https://altur.io",
+    "batch": "Summer 2025",
+    "description": "",
+    "location": "Mexico City, CDMX, Mexico",
+    "industry": "B2B",
+    "team_size": 4,
+    "yc_url": "https://www.ycombinator.com/companies/altur"
+  },
+  {
+    "name": "PARES AI",
+    "website": "https://www.pares.ai/",
+    "batch": "Summer 2025",
+    "description": "PARES is the single platform commercial real estate brokers need for their entire workflow, from chasing leads to closing deals and everything in between. \r\n\r\nWith our platform, brokers can:\r\n\r\n1) Automatically update real-time transaction data in our CRM\r\n\r\n2) Create lists of target properties, skip-trace, and easily navigate outbound calls\r\n\r\n3) Underwrite deals with our AI Underwriting Agent\r\n\r\n4) Create OMs/BOVs in minutes with our AI Marketing Agent\r\n\r\nCheck us out at https://www.pares.ai/",
+    "location": "San Francisco, CA, USA",
+    "industry": "Real Estate and Construction",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/pares-ai"
+  },
+  {
+    "name": "Avelis Health",
+    "website": "https://avelishealth.com",
+    "batch": "Summer 2025",
+    "description": "𝐖𝐡𝐲 𝐰𝐞 𝐛𝐮𝐢𝐥𝐭 𝐭𝐡𝐢𝐬:\r\nI (Angel) have had three knee surgeries since my mid-teens and was billed more than $250K for care that should have cost a fraction of that. Fighting those inflated charges was so painful that we set out to build a consumer-facing AI agent to do it for others. In less than five months, we helped sixty patients erase or reduce over $280K from their medical bills.\r\n\r\nThis inspired us to fix the problem farther upstream: stopping bad payments before the patient ever sees a bill. So we launched payment integrity, machine-learning models that audit every medical claim for self-insured employers and health plans in real time.\r\n\r\n𝐓𝐡𝐞 𝐏𝐫𝐨𝐛𝐥𝐞𝐦:\r\n• Self-insured employers waste $60 B+ each year on claims that never should have been paid\r\n\r\n• Manual audits are slow and partial: Reviewers focus only on high-dollar claims, letting millions more slip through unnoticed.\r\n\r\n• Existing audit software is static: Decades-old rule engines can’t keep pace with evolving codes, contracts, or billing tactics.\r\n\r\n• Incentives are misaligned: Third-party administrators are paid to process claims, not to police them, so accuracy checks are minimal.\r\n\r\n𝐎𝐮𝐫 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧:\r\nOur models audit medical claims before and after payments have been issued. We catch nuanced billing, coding, and contract errors to save 3-7% on annual claims spend. We work with self-insured employers and health plans.\r\n\r\n𝐀𝐛𝐨𝐮𝐭 𝐔𝐬:\r\nAngel Onuoha (CEO) and Ahmad Shehu (CTO) have worked together for 4 years. Before Avelis Health they built Zuvy, a Lagos-based fintech company that provided invoice factoring to small businesses. Zuvy was acquired by The BAS Group in 2025.",
+    "location": "San Francisco, CA, USA",
+    "industry": "Healthcare",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/avelis-health"
+  },
+  {
+    "name": "Humoniq",
+    "website": "https://humoniq.ai",
+    "batch": "Summer 2025",
+    "description": "Humoniq is building voice AI agents to handle customer support for travel companies, such as airlines.\r\n\r\nOur team is uniquely equipped to solve this challenge. We grew a travel management company, Flightfox (YC S12), to over $20M in annual sales while handling thousands of customer support requests.\r\n\r\nOur mission now is to make customer support in travel the fastest and most helpful of any industry. We already have major travel companies signed and a rapidly growing deal pipeline.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/humoniq"
+  },
+  {
+    "name": "Idler",
+    "website": "https://idler.ai/",
+    "batch": "Summer 2025",
+    "description": "",
+    "location": "",
+    "industry": "B2B",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/idler"
+  },
+  {
+    "name": "Floot",
+    "website": "https://floot.com",
+    "batch": "Summer 2025",
+    "description": "Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI. Since June, 3000+ users have created over 4000 apps on Floot.\r\n\r\nExisting AI app builders fall short of enabling non-coders to build real, serious apps. They often:\r\n- Break down when building anything more than a prototype or toy app\r\n- Have non-coders stuck with errors they don’t understand\r\n- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)\r\n\r\nThe fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.\r\n\r\nThe result? Non-coders get excited, start building, hit a wall, and then abandon their projects.\r\n\r\nFloot is purpose-built for AI. Our secret sauce:\r\n1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.\r\n2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.\r\n\r\nBecause of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.\r\n\r\nWe also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.\r\n\r\nPlus, Floot is really fun to use! Try building an app at floot.com",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/floot"
+  },
+  {
+    "name": "Observee",
+    "website": "https://observee.com/",
+    "batch": "Summer 2025",
+    "description": "All AI Agents rely on external integrations to become truly useful. Our software provides any AI Agent developer with access to over 1,000 MCP integrations through a single API. \r\n\r\nIn the last 6 months, MCP has become the official protocol for connecting AI agents to the outside world. Observee provides developers with Authentication, Observability and Security in one hosted MCP. \r\n\r\nAs AI Agents increasingly take on more manual jobs, they will rely on Observee for underlying infrastructure. ",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/observee"
+  },
+  {
+    "name": "Socratix AI",
+    "website": "https://getsocratix.ai",
+    "batch": "Summer 2025",
+    "description": "Socratix builds AI coworkers for fraud and risk teams so that humans don't have to spend their days drowning in alerts and spreadsheets.\r\n\r\nToday, fraud and risk teams at fintechs and banks are overwhelmed. Analysts jump between tools, manually stitch together context, and make judgment calls under pressure, often for hundreds of alerts a week. Too much of their work is slow, repetitive, and error-prone. We're here to change that. \r\n\r\nSocratix gives fraud and risk teams AI coworkers that investigate alerts in real time, replacing manual reviews with fast, explainable decisions. Socratix agents plug into existing workflows and reason across signals just like human analysts to help teams reduce fraud losses, minimize false positives, and scale operations without scaling headcount.\r\n\r\nWe've seen this problem firsthand. At DoorDash, Riya helped save $30M+ a year by building smarter fraud detection and investigation tooling, and at Unit21, she built products for analysts that made them 3X faster. We're able to build and sell enterprise-grade software. At Cruise, Satya built scalable AI systems powering petabyte-scale data, and at LinkedIn, he built enterprise products from 0 to 1 generating $50M+ in incremental revenue. Now, the two of us are teaming up to eliminate the manual toil in fraud and risk.\r\n\r\nWe're obsessed with fraud, LLMs, real-world automation, and the messy edge cases traditional ML has trouble handling. We believe that every fraud analyst should have an AI coworker - and the future of fraud will involve combining human-level reasoning with machine-speed execution. ",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/socratix-ai"
+  },
+  {
+    "name": "Risely AI",
+    "website": "https://www.risely.ai/",
+    "batch": "Summer 2025",
+    "description": "Risely’s AI agents will form the new operating system for universities, improving retention, staff productivity, and efficiency. Our platform integrates directly into existing university systems (SIS, LMS, CRM), learns each institution’s unique workflows, and deploys specialized AI agents. This dramatically reduces the $735 billion universities spend annually on administrative labor, expands staff capacity without increasing headcount, and improves the student experience.\r\n\r\nThis hasn't been done before because university workflows require nuanced, autonomous judgment, exactly what agentic AI was designed to solve. Our team uniquely combines deep expertise in higher education, enterprise-scale AI, and regulated enterprise sales.\r\n\r\nSadia previously built Salesforce’s Education Cloud from scratch, creating the core Student Information System widely used across higher education. She deeply understands university operations and maintains trusted relationships with hundreds of higher-ed CIOs and Provosts.\r\n\r\nDanial was one of DoorDash’s earliest engineers, where he architected and scaled complex systems from zero to billions of transactions, including their search, recommendation, and Voice AI platforms. He knows how to build robust AI solutions that reliably perform at enterprise scale. \r\n\r\nShahryar was a GM at Airwallex, where he built the entire Americas business from 0 to 1 and drove 11x revenue growth.  He’s also a master closer, single-handedly securing over $17M in enterprise deals at NerdWallet.  He’s a relentless startup executor with deep expertise launching and scaling go-to-market machines in highly regulated industries.\r\n\r\nWe launched six weeks ago and are already at $8k MRR, growing 55% week-over-week -- one of the fastest ramps ever in higher ed. Universities urgently need solutions that expand labor capacity and efficiency, especially as they face unprecedented budget pressure and staffing shortages.\r\n\r\nWith unmatched buyer access, deep technical expertise, and rapid early traction, we are perfectly positioned to own this enormous market.",
+    "location": "San Francisco, CA, USA",
+    "industry": "Education",
+    "team_size": 9,
+    "yc_url": "https://www.ycombinator.com/companies/risely-ai"
+  },
+  {
+    "name": "Omnara",
+    "website": "https://omnara.com",
+    "batch": "Summer 2025",
+    "description": "As AI agents handle longer, more complex tasks, human oversight becomes critical. Omnara provides the human-in-the-loop infrastructure to make autonomous agents reliable.\r\n\r\nOur platform lets users and teams manage AI agents through a unified dashboard. When agents face uncertainty, hit roadblocks, or need permissions that require human judgment, they pause and request guidance, ensuring workflows stay on track. Any agent can integrate, e.g. Claude Code, n8n workflows, or custom builds.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/omnara"
+  },
+  {
+    "name": "Autosana",
+    "website": "https://autosana.ai",
+    "batch": "Summer 2025",
+    "description": "A cloud-based tool for mobile teams to run natural language end-to-end tests. Eradicates the need to write/maintain E2E tests and manual testing. Seamlessly integrates into your CI, supports both iOS and Android, and is framework-agnostic (React Native, Flutter, Swift, etc).\r\n\r\nNo code, no setup, just catching bugs before users do. ",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/autosana"
+  },
+  {
+    "name": "April",
+    "website": "https://tryapril.com",
+    "batch": "Summer 2025",
+    "description": "April is a voice AI Executive assistant that manages your email and calendar, hands free. It’s built for busy individuals who need EAs but don’t have them.",
+    "location": "San Francisco, CA, USA",
+    "industry": "Consumer",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/april"
+  },
+  {
+    "name": "Iron Grid",
+    "website": "https://getirongrid.com/",
+    "batch": "Summer 2025",
+    "description": "",
+    "location": "",
+    "industry": "Fintech",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/iron-grid"
+  },
+  {
+    "name": "Finto",
+    "website": "https://www.gofinto.com/",
+    "batch": "Summer 2025",
+    "description": "Finto automates accounting for enterprises. With agents, we double an accountant's productivity in handling accounts payable - from invoice verification and supplier communication to account assignment, approval workflows, and ERP postings, all in one streamlined step.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/finto-de"
+  },
+  {
+    "name": "Motives",
+    "website": "https://motives.ai/",
+    "batch": "Summer 2025",
+    "description": "Motives is a team of AI agents that runs qualitative research projects for consumer brands: moderating and analyzing video interviews to help brands understand consumer preferences and test new ideas, in hours instead of weeks. \r\n\r\n",
+    "location": "London, England, United Kingdom",
+    "industry": "B2B",
+    "team_size": null,
+    "yc_url": "https://www.ycombinator.com/companies/motives"
+  },
+  {
+    "name": "mcp-use",
+    "website": "https://mcp-use.com",
+    "batch": "Summer 2025",
+    "description": "mcp-use provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy custom AI agents with MCP servers. \r\nOur library has over 100,000 downloads and 4,000 stars, and is used by hundreds of engineers at big enterprises.\r\nWe provide a hosted and self-hosted platform that manages auth, access control, and multi-user environments for secure MCP agents deployment at scale.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/mcp-use"
+  },
+  {
+    "name": "Novaflow",
+    "website": "https://www.novaflowapp.com/",
+    "batch": "Summer 2025",
+    "description": "Novaflow is the AI data analyst for biology labs. \r\n--\r\nBioinformatics data analysis is a time-consuming and expensive process for scientists. With Novaflow, life scientists can upload experimental data, ask questions in plain English, and get instant, publication-ready plots, giving them results in minutes instead of months. ",
+    "location": "San Francisco, CA, USA",
+    "industry": "Healthcare",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/novaflow"
+  },
+  {
+    "name": "Perseus Defense",
+    "website": "https://perseusdefense.ai",
+    "batch": "Summer 2025",
+    "description": "Perseus Defense is building a mass-manufactured Counter UAS solution for the Department of Defense and Department of Homeland Security. Current solutions are one-to-one, too dangerous for use on U.S. soil, and orders of magntiude more expensive than the threats they defeat. Our micro-guided missile system is man-portable, multi-domain capable, and has both forward-deployed and low-collateral defeat variants. It senses, engages, and eliminates threats with drastically reduced cost per engagement. \r\n\r\nSolving this critical national security problem requires understanding complex DoD needs along with actual rocket science including aerodynamics, guidance, navigation, control, and much more. Jason and Steve met at Penn State while they pursued a PhD and MS in aerospace engineering, respectively. Their past experiences designing space helicopters for NASA, making Boeing airliners land autonomously, controlling swarms of unmanned autonomous systems, teaching aerospace engineering at Stanford, winning multiple ONR and DOE engineering competitions, and founding an international drone competition makes them the perfect team to create transformative solutions protecting our service members. \r\n\r\n\"If you build this, it will be mandatory equipment for every truck, boat, and convoy in the U.S. Military. We're talking thousands of units.\" - Former DoD Procurement Officer\r\n\r\nThe White House just released Executive Order, \"Unleashing American Drone Dominance\" which adds billions of dollars, government support, and streamlined regulations to enable the development of our product. \r\n\r\nTraction: \r\nA UAS prototype was designed and built in one week and a prototype of the guided missile was prototyped in four days. Following the Stanford Hacking for Defense process that Perseus Defense adviser and former Army Ranger Dr. Jeff Decker wrote the book on, Jason and Steve used 60 end-user interviews across the DoD and DHS to shape the product to something of critical need to both boots on the ground and DoD purchasers. Perseus has already been invited to a Phase-II in-person pitch of their solution to government end-users, signaling progress towards contract opportunities. ",
+    "location": "San Francisco, CA, USA",
+    "industry": "Industrials",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/perseus-defense"
+  },
+  {
+    "name": "Phases",
+    "website": "https://phases.ai",
+    "batch": "Summer 2025",
+    "description": "We’re building the first full-stack AI agent company to automate clinical trials for pharma companies.",
+    "location": "San Francisco, CA, USA",
+    "industry": "Healthcare",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/phases"
+  },
+  {
+    "name": "Summon",
+    "website": "https://trysummon.com",
+    "batch": "Summer 2025",
+    "description": "Summon is the complete end-to-end MCP platform. We're building the pipes connecting context to client applications for the agent economy. \r\n\r\nSummon transforms MCP development from a fragmented, manual process into an AI-first, collaborative workflow. We build MCP servers from OpenAPI specs using our AI agent, provide debugging playgrounds, run continuous evaluations against different LLMs, and offer enterprise hosting with observability. This creates a complete virtuous loop where AI builds, maintains, and improves MCP integrations, accelerating time-to-market, reducing bugs, and aligning developers, QA, and product teams.\r\n\r\nWith MCP gaining adoption across ChatGPT, Claude, and Microsoft Copilot, companies need agent-accessible APIs to remain competitive.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/summon"
+  },
+  {
+    "name": "Albacore Inc.",
+    "website": "https://www.albacore.inc",
+    "batch": "Summer 2025",
+    "description": "Albacore is building 6ft-long autonomous submarines to deter maritime invasions. They can be launched from land in minutes and carry precision effects or conduct sensing missions up to 1,000 nautical miles. Our team consists of multiple serial entrepreneurs in defense and hardware who have worked alongside top DoD leadership on autonomous platforms.",
+    "location": "",
+    "industry": "Government",
+    "team_size": 5,
+    "yc_url": "https://www.ycombinator.com/companies/albacore-inc"
+  },
+  {
+    "name": "Riff",
+    "website": "https://goriff.com/",
+    "batch": "Summer 2025",
+    "description": "Riff is a super powered music editor where experienced producers can be dramatically more productive and hobbyists can delight in music without needing technical chops.\r\n\r\nAs we continue to build, we see Riff turning into an entirely new paradigm for creating music.",
+    "location": "San Francisco, CA, USA",
+    "industry": "Consumer",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/riff"
+  },
+  {
+    "name": "Mohi",
+    "website": "https://trymohi.com/",
+    "batch": "Summer 2025",
+    "description": "We help people understand their agent workflows and where they went wrong.\r\n\r\nWe met early on at MIT and built a bunch of projects together for fun. Of course when the AI wave took over, we were excited about agents. We made our own agents, and we always found it annoying figuring out if they consistently worked or not.\r\n\r\nWe believe that it should be easy to know what your agents are doing and why, no matter the use case or the tech stack. So that's exactly what we're helping companies achieve; we started building a few weeks ago and are working with our design partner to get deep observability and insights into their agent executions.\r\n\r\nThe future is autonomous; AI agents will be everywhere. Mohi can make sure that we humans know what these agents are doing.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/mohi"
+  },
+  {
+    "name": "Mimos",
+    "website": "https://www.mimos-ai.com/",
+    "batch": "Summer 2025",
+    "description": "Mimos is an Answer Engine Optimization (AEO) platform designed for regulated experts, starting with Registered Investment Advisors (RIAs). \r\n\r\nWe help highly-regulated companies get discovered and trusted on AI platforms like ChatGPT and Gemini, driving qualified inbound while staying compliant.\r\n\r\n===\r\n\r\nRohit & Mike have been working together on various technical project since middle school (13 years!) - and Mimos came about as one of those projects.",
+    "location": "",
+    "industry": "Fintech",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/mimos"
+  },
+  {
+    "name": "Nozomio",
+    "website": "https://www.nozomio.com/",
+    "batch": "Summer 2025",
+    "description": "Nozomio is a product lab building engineers for the age of AI.\r\n\r\nAs coding agents become ubiquitous, the real bottleneck shifts from “write code” to “know which code and docs to feed them.” Starting with the tool named Nia, the mission is to provide context enrichment through agentic research and indexing of any external codebase(-s) or documentation via MCP / API.\r\n\r\nNozomio started with Arlan's early frustration with the agentic coding ecosystem, especially around context and memory. After winning Product of the Day in February and raising pre-seed, Arlan moved to London and then to SF as a solo immigrant from Kazakhstan to build the future of software engineering. \r\n\r\ntry nia at trynia .ai <3 ",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 1,
+    "yc_url": "https://www.ycombinator.com/companies/nozomio"
+  },
+  {
+    "name": "VibeFlow",
+    "website": "https://vibeflow.ai/",
+    "batch": "Summer 2025",
+    "description": "VibeFlow generates full-stack web apps from prompts with n8n-style visual workflows for the backend. Users of tools like Lovable or v0 can easily iterate over frontends because they can see them, while backends remain closed black boxes that are hard to evolve through prompting. VibeFlow opens up backend logic, making it visual and editable, with powerful integrations built in.",
+    "location": "",
+    "industry": "B2B",
+    "team_size": 0,
+    "yc_url": "https://www.ycombinator.com/companies/vibeflow"
+  },
+  {
+    "name": "Comena",
+    "website": "https://comena.ai",
+    "batch": "Summer 2025",
+    "description": "We build AI agents that automate order processing for industrial distributors and manufacturers. Say goodbye to inside sales teams spending hours on manual data entry. Comena streamlines order and quote entry, from inbox to ERP, freeing up sales teams to focus on high-value activities and proactive selling.",
+    "location": "",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/comena"
+  },
+  {
+    "name": "GhostEye",
+    "website": "https://ghosteye.ai",
+    "batch": "Summer 2025",
+    "description": "GhostEye offers offensive AI agents that generate sophisticated social engineering campaigns across a multitude of attack vectors.\r\n\r\nLeveraging natural language prompts, GhostEye creates personalized campaigns in seconds, in what used to take hours.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/ghosteye"
+  },
+  {
+    "name": "Channel3",
+    "website": "https://trychannel3.com",
+    "batch": "Summer 2025",
+    "description": "Channel3 is building a database of every product on the internet.\r\n\r\nGoogle and OpenAI maintain vast product graphs, but keep that valuable data to themselves. Channel3 gives every developer access, opening a world of possibility for new shopping experiences across any vertical. For instance, developers could build AI fashion stylists or give their agents shopping capabilities.\r\n\r\nWe don’t just collect product data; we actually understand it. With the latest image classification and reasoning models, we can match products across merchants—even when listings and images differ—recognize variants, and surface the perfect matches for every search. As we grow, we’ll capture unique insights into what users want, click, and buy.\r\n\r\nAs AI models get smarter and cheaper, our flywheel accelerates: our catalog will improve, and it will be even easier for developers and vibe-coders to build on our infrastructure. To further incentivize building on Channel3, we provide built-in monetization; developers earn commissions on sales they drive.\r\n\r\nAlex discovered this need while building an AI tutor that could recommend products and earn affiliate revenue. When no solution existed, he persuaded his smartest friend from Duke and former co-founder George to leave Palantir and build Channel3 together.",
+    "location": "New York, NY, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/channel3"
+  },
+  {
+    "name": "Epicenter",
+    "website": "https://epicenter.so/",
+    "batch": "Summer 2025",
+    "description": "We're building a suite of open-source, local-first apps that share a single memory—so your ideas, plans, and code live in one connected space. Most tools divide you: one for notes, one for tasks, one for contacts. Epicenter is designed to blur those lines—so you can stay in flow across disciplines.\r\n\r\nWe’ve started with tools like Whispering (a fast, local transcription tool) and epicenter.sh (a way to talk to a folder on your computer). But this is just the beginning. We're building a plain-text-native ecosystem: a text editor, chat, a personal assistant, and more—designed to work together out of the box, and run on your own machine.\r\n\r\nIf you’re tired of switching apps to finish a thought—or of vendors owning your memory—Epicenter might feel like home.",
+    "location": "San Francisco, CA, USA",
+    "industry": "Consumer",
+    "team_size": 1,
+    "yc_url": "https://www.ycombinator.com/companies/epicenter"
+  },
+  {
+    "name": "Wisp AI",
+    "website": "https://wispai.app/",
+    "batch": "Summer 2025",
+    "description": "Wisp AI is the executive assistant for everyone — not just CEOs. It manages your calendar, drafts emails, summarizes meetings and notes, and handles your to-dos and reminders. Built for small business owners and busy employees, Wisp saves hours every week by automating admin work — all for a fraction of the cost of a human assistant.",
+    "location": "San Francisco, CA, USA",
+    "industry": "Consumer",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/wisp-ai"
+  },
+  {
+    "name": "Embedder",
+    "website": "https://www.embedder.dev/",
+    "batch": "Summer 2025",
+    "description": "",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/embedder"
+  },
+  {
+    "name": "Flai",
+    "website": "https://www.useflai.com/",
+    "batch": "Summer 2025",
+    "description": "The problem we solve: 56% of dealership leads arrive after business hours, and most dealers lose these potential customers to competitors who happen to be available 24/7. Missing after-hours calls alone costs the average dealership $1M annually in lost revenue.\r\n\r\nWe built Flai to fix this - AI assistants that answer dealership calls 24/7, scheduling test drives, oil changes, or running outbound recall campaigns so no opportunity slips away.\r\n\r\nThe result: No more missed opportunities, no more losing customers to competitors.\r\n\r\nOur founding team has built voice AI products at HappyRobot, scaled infrastructure at Uber for millions of users, and applied data science at Netflix to solve operational challenges.\r\n\r\nWe're not just answering phones, we're helping dealerships win in an AI-first world where availability determine who gets the sale.",
+    "location": "San Francisco, CA, USA",
+    "industry": "Industrials",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/flai"
+  },
+  {
+    "name": "b-12",
+    "website": "https://b12-labs.com/",
+    "batch": "Summer 2025",
+    "description": "At B-12, we are developing AI agents for automated workflows in chemistry and pharma R&D, as a way of manifesting chemical super intelligence (CSI) in the physical world. We are preparing for the next wave of physical AI, specializing in chemistry.\r\n\r\nOur long-term goal is to create autonomous labs that can plan and perform complex, multistep syntheses with minimal human intervention.",
+    "location": "San Francisco, CA, USA",
+    "industry": "Healthcare",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/b-12"
+  },
+  {
+    "name": "IronLedger.ai",
+    "website": "https://ironledger.ai",
+    "batch": "Summer 2025",
+    "description": "IronLedger provides AI agents for property accounting, starting with accounts payable. We eliminate 100s of hours of expense work for 1000s of multifamily units every month. Soon, we'll be providing end-to-end accounting services including automated billbacks, month-end close and bank reconciliation.\r\n\r\nhttps://www.ironledger.ai/",
+    "location": "New York, NY, USA",
+    "industry": "Real Estate and Construction",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/ironledger-ai"
+  },
+  {
+    "name": "Doe",
+    "website": "https://doe.so/",
+    "batch": "Summer 2025",
+    "description": "Doe embeds intelligent, task‑specific AI agents inside private‑equity‑owned service groups, starting with dental service organizations. The platform plugs into practice management, ERP, communication tools, and supplier catalogs to run procurement, approvals, scheduling, and analytics end‑to‑end, delivering immediate EBITDA lift and data visibility.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 4,
+    "yc_url": "https://www.ycombinator.com/companies/doe"
+  },
+  {
+    "name": "Louiza Labs",
+    "website": "https://www.louiza.ai/",
+    "batch": "Summer 2025",
+    "description": "Louiza Labs accurately simulates human biology so medical technology (devices, robots, etc) can be trained and tested without real patients or hard to access real-world medical data.\r\n\r\nOur physics-driven AI engine creates hyper-accurate, multi-organ human models with unprecedented speed and fidelity.\r\n\r\nInstead of spending millions on data for clinical trials, cadaver labs, or risky human testing—use Louiza to:\r\n1. Test devices on digital twins—faster FDA, no animal trials.\r\n2. Generate rare, high-fidelity edge-case datasets.\r\n3. Train AI for combat, triage, and robotic procedures in extreme conditions.\r\n4. Simulate stressed anatomy (e.g., Bruno Fernandes under fatigue, fighter pilots under G-force).\r\n\r\nBonus: Our anatomically accurate models are indistinguishable from real humans and can be “imaged” (e.g., X-ray, ultrasound) for use in ML pipelines.",
+    "location": "San Francisco, CA, USA",
+    "industry": "Healthcare",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/louiza-labs"
+  },
+  {
+    "name": "Parachute",
+    "website": "https://parachute-ai.com",
+    "batch": "Summer 2025",
+    "description": "Parachute is the AI Quality Assurance Lab for hospitals — end-to-end governance that lets clinical AI move from inception to implementation with confidence. We pre-vet vendors, enforce compliance, track every model in real time, and preserve an immutable audit log that stands up to regulators and litigators, enabling safe, scalable AI in healthcare.",
+    "location": "San Francisco, CA, USA",
+    "industry": "Healthcare",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/parachute"
+  },
+  {
+    "name": "BootLoop",
+    "website": "https://bootloop.ai/",
+    "batch": "Summer 2025",
+    "description": "BootLoop is building the first AI agent to write and test firmware on real hardware. Existing AI coding assistants fail completely with embedded systems, but our agent ingests datasheets, schematics, and other design files to write firmware in your style and automatically test it on your hardware.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/bootloop"
+  },
+  {
+    "name": "AgentHub",
+    "website": "https://www.agenthub.build",
+    "batch": "Summer 2025",
+    "description": "AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.\r\n\r\nSimulate real-world scenarios in curated RL environments for your agents - trace, evaluate, and improve agent behavior at scale. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what’s working (and what’s not).\r\n\r\nBuilt by a former tech lead from Apple’s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.\r\n\r\nOur streamlined onboarding process lets you get your agent eval environment up and running fast—no heavy lifting on your end.\r\n\r\nClose the feedback loop and build better agents, faster - with confidence. ",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/agenthub-2"
+  },
+  {
+    "name": "Dash",
+    "website": "https://www.usedash.ai/",
+    "batch": "Summer 2025",
+    "description": "Dash is a general agent that connects to your G-Suite, Slack, Notion, Linear, and more to take in your personal context and perform actions. \r\n\r\nConsider it an agentic Glean that allows knowledge workers to save 2-3 hours a day of busy work.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/dash"
+  },
+  {
+    "name": "Wedge",
+    "website": "https://www.wedge.health",
+    "batch": "Summer 2025",
+    "description": "Healthcare is going bankrupt without AI. Wedge is the all-in-one AI solution for hospitals and health organizations. We allow them to effortlessly deploy and monitor AI solutions.",
+    "location": "San Francisco, CA, USA",
+    "industry": "Healthcare",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/wedge"
+  },
+  {
+    "name": "Lemma",
+    "website": "https://www.withlemma.com",
+    "batch": "Summer 2025",
+    "description": "We’re building Lemma because we’ve been there.\r\n\r\nWe’ve worked in professional services and lived the pain — buried in work that doesn’t move the needle. Aggregating numbers from back surveys. Hunting for that one number buried in a mountain of files. Pulling quotes from hours of expert calls. Drafting version 10 of the interview guide. Rebuilding the same CDD survey from scratch. Programming those 100 question surveys.\r\n\r\nGeneric AI agents don’t work here. They don’t understand your content, your context, or your workflow.\r\n\r\nLemma builds AI teammates tailored to the way you actually work — built by people who’ve done the work. Our agents plug into your tools, learn your processes, and handle the grunt work behind the scenes — so you can focus on insights, strategy, and moving fast.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/lemma"
+  },
+  {
+    "name": "CareSwift",
+    "website": "https://www.careswift.com/",
+    "batch": "Summer 2025",
+    "description": "Ambulance crews lose valuable time completing reports after each call. Even minor mistakes cause insurance claims to be rejected. CareSwift is a real-time AI assistant built directly into ambulance reporting systems, guiding medics as they document care and instantly flagging errors. Crews complete accurate, compliant reports in under three minutes, cutting documentation time by 80 percent and helping agencies avoid insurance claim denials.",
+    "location": "",
+    "industry": "Healthcare",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/careswift"
+  },
+  {
+    "name": "Pangolin",
+    "website": "https://digpangolin.com",
+    "batch": "Summer 2025",
+    "description": "Pangolin provides a simple way to securely expose applications on private networks with identity-aware access control and high availability. It’s an open-source cloud and self-hosted solution that enables administrators to maintain data sovereignty and control user interaction to internal tools.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/pangolin"
+  },
+  {
+    "name": "Kestroll",
+    "website": "https://www.kestroll.com/",
+    "batch": "Summer 2025",
+    "description": "Kestroll is the AI-powered media asset management platform.\r\n\r\nKestroll automatically ingests, labels, and organizes all of your company's media assets (photos, audio, and especially videos) and provides a central interface for the entire organization to access and distribute content.\r\n\r\nKestroll eliminates the laborious labeling process and provides easy content access for the entire organization, without the clunky interfaces and long learning curves of traditional MAMs.\r\n\r\nThe days of filtering through someone else's tags are past. With Kestroll, anyone in the organization can search in everyday language, based on visual cues, abstract concepts, creative intent, and more, without the burden of manual labeling. ",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/kestroll"
+  },
+  {
+    "name": "DeepAware AI",
+    "website": "https://deepawareai.com/",
+    "batch": "Summer 2025",
+    "description": "DeepAware builds an AI-driven automation system for GPU-intensive data centers. Our reinforcement-learning scheduler, real-time market integration, and unified dashboard slice energy waste by up to 30%. Coming soon: autonomous “robot-hand” inspections and maintenance to enable 24/7 operations with minimal staff.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/deepaware-ai"
+  },
+  {
+    "name": "Stockline",
+    "website": "https://stockline.ai",
+    "batch": "Summer 2025",
+    "description": "Stockline is reshaping ERPs to bring innovation to a $990B+ industry left behind by the tech revolution: the food supply chain.\r\n\r\nFood wholesalers still rely on software from the 90s. One symptom among many: they waste hours retyping orders and invoices that arrive through scattered channels like WhatsApp, SMS, and email into their ERPs. Manual admin work takes over. Headcount grows just to handle repetitive tasks.\r\nThis leads to mistakes, tight margins, and food waste.\r\n\r\nStockline replaces outdated ERPs with AI at its core. The game-changer? No more manual data entry. Our AI pulls orders from every channel and feeds them directly into one unified system.\r\n\r\nAdmin disappears. Wholesalers get to focus on what really matters: their products and their customers.",
+    "location": "",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/stockline"
+  },
+  {
+    "name": "Magnitude",
+    "website": "https://magnitude.run",
+    "batch": "Summer 2025",
+    "description": "Knowledge workers spend 85% of their day in the browser.\r\n\r\nYet so much of this work is tedious, time-consuming labor.\r\n\r\nAI has revolutionized browser automation - but it's trapped behind APIs, SDKs, and complex interfaces. Tools like UIPath and Zapier tried to help, but they're still too technical, expensive, or complicated.\r\n\r\nWhat if automating your repetitive browser work was as easy as explaining it to a coworker?\r\n\r\nThat’s Magnitude. Simply record yourself taking actions on your browser, talk through the details, and our AI builds your automation. Run it instantly or schedule it - no maintenance required.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/magnitude"
+  },
+  {
+    "name": "Keystone",
+    "website": "https://withkeystone.com",
+    "batch": "Summer 2025",
+    "description": "Keystone autonomously builds and maintains end-to-end tests for your application. Never write another test or run through manual QA ever again.",
+    "location": "",
+    "industry": "B2B",
+    "team_size": 1,
+    "yc_url": "https://www.ycombinator.com/companies/keystone"
+  },
+  {
+    "name": "DeepGrove",
+    "website": "",
+    "batch": "Summer 2025",
+    "description": "Developing the next suite of 1-bit foundation models that can run on edge devices.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/deepgrove"
+  },
+  {
+    "name": "Skope",
+    "website": "https://useskope.com",
+    "batch": "Summer 2025",
+    "description": "We’re taking a new approach to the legacy billing system, for AI-native companies. On top of normal pricing models, Skope allows companies to create a new stream of revenue by capturing a portion of the value their agents create through “outcome-based pricing\".",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/skope"
+  },
+  {
+    "name": "Alter AI",
+    "website": "https://alterai.dev",
+    "batch": "Summer 2025",
+    "description": "",
+    "location": "New York, NY, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/alter-ai"
+  },
+  {
+    "name": "Imprezia",
+    "website": "https://imprezia.ai",
+    "batch": "Summer 2025",
+    "description": "The first advertising infrastructure designed specifically for AI apps. Seamlessly integrate contextual brands & products that enhance user experience while generating revenue to pay the inference bills.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 1,
+    "yc_url": "https://www.ycombinator.com/companies/imprezia"
+  },
+  {
+    "name": "Janet AI",
+    "website": "https://tryjanet.ai",
+    "batch": "Summer 2025",
+    "description": "Big companies are drowning in Jira tickets. They get hundreds if not thousands of reported issues monthly—most never read by anyone who understands the whole system. De-duping is a chore. Related issues get filed twenty times under different teams. The result: teams spend hundreds of hours just figuring out what the most important items are, before they can even start fixing them.\r\n\r\nJanet AI is the AI-native ticket triage and management layer for Jira.\r\n\r\nJanet AI watches every incoming ticket and immediately compares it to everything that’s come before. It builds a knowledge graph: which tickets look like the same underlying bug, which roll up into the same component failure, which issues share the same root cause. With this, it surfaces duplicate or related issues, auto-detects fixes mentioned in these related tickets, and identifies those that matter most.\r\n\r\nBecause the data’s structured, useful questions become instantly answerable using the Janet AI Chat Agent's contextual intelligence. “What are the highest priority login bugs hitting enterprise customers running version X?” “How should I fix issue PROJ-123?” “What are the most critical issues related to PROJ-456 and how should I prioritize these?”\r\n\r\nSeveral multi‑billion‑dollar enterprises are already in talks with Janet AI to reduce the manual work involved in managing tickets at scale.\r\n\r\nInterested? Check out our tryjanet.ai to watch our demo, book a call, and get started with a free Proof of Concept on your Jira tickets!",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/tryjanet"
+  },
+  {
+    "name": "Cyberdesk",
+    "website": "https://www.cyberdesk.io",
+    "batch": "Summer 2025",
+    "description": "Cyberdesk is the computer use agent for developers to automate legacy Windows apps. \r\n\r\nWe've designed our agent to follow memorized steps reliably, while falling back to computer use models during unexpected popups. Customers in healthcare, finance, and more are using our agent to automate EHRs, accounting apps, and other legacy apps.\r\n\r\nWe’d love to talk with you!\r\nhttps://cal.com/mahmoud-al-madi-klrs5s/30min",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/cyberdesk"
+  },
+  {
+    "name": "Qualify.bot",
+    "website": "https://www.qualify.bot/",
+    "batch": "Summer 2025",
+    "description": "Qualify.bot helps commercial lenders and loan brokers process business loan applications with 4x higher conversion rates. Our AI voice calls eliminates 8+ hours of manual work per loan, from lead qualification to document collection & follow-ups.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/qualify-bot"
+  },
+  {
+    "name": "Herdora",
+    "website": "https://www.herdora.com",
+    "batch": "Summer 2025",
+    "description": "We built Herdora for every team that can't afford a GPU optimization expert. Herdora takes your janky PyTorch, writes optimized kernels for it in seconds, and keeps them tuned in production. It monitors your inference workloads, catches inefficiencies, and fixes them automatically. You keep shipping fast. Herdora makes it run fast. No CUDA knowledge required.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/herdora"
+  },
+  {
+    "name": "Orange Slice",
+    "website": "https://orangeslice.ai",
+    "batch": "Summer 2025",
+    "description": "Orange Slice uses AI agents to crawl the internet for signals/firmographic data that help sales teams find high-intent prospects by continuously monitoring the internet for buying signals and firmographic changes.\r\n\r\nOur agents scan millions of data sources - including company websites, news articles, job postings, press releases, and social media - to detect meaningful events such as leadership changes, product launches, funding rounds, hiring trends, and more. These insights are transformed into actionable sales signals that indicate a company’s likelihood to purchase your product.\r\n\r\nWith Orange Slice, revenue teams can prioritize outreach, personalize messaging, and dramatically improve conversion rates by engaging the right accounts at the right time - based on what’s actually happening, not just static firmographics.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/orange-slice"
+  },
+  {
+    "name": "Monarcha",
+    "website": "https://monarcha.ai",
+    "batch": "Summer 2025",
+    "description": "Monarcha is an AI-powered geospatial platform that turns natural language into spatial analysis, styling, and workflows with no GIS expertise required. It connects to your data, understands context, and can runs 50+ spatial tools instantly on the map.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/monarcha"
+  },
+  {
+    "name": "Design Arena",
+    "website": "https://www.designarena.ai/",
+    "batch": "Summer 2025",
+    "description": "",
+    "location": "San Francisco, CA, USA",
+    "industry": "Consumer",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/design-arena"
+  },
+  {
+    "name": "Sentinel",
+    "website": "https://yoursentinel.ai",
+    "batch": "Summer 2025",
+    "description": "Sentinel is your 24/7 on-call engineer which investigates, diagnoses and suggests resolutions for production issues. Sentinel helps teams reduce alert fatigue and downtime, saving engineers from firefighting so they can focus on building.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/sentinel"
+  },
+  {
+    "name": "ContextFort",
+    "website": "https://contextfort.ai/",
+    "batch": "Summer 2025",
+    "description": "ContextFort is bringing the power of AI to the three trillion dollar construction industry, starting with an AI co-pilot that reviews every revision of your architectural and structural drawings in minutes—not weeks.\r\n\r\nOur Software:\r\n• Detects missing or conflicting dimensions across sheets\r\n• Highlights overlay mismatches between versions\r\n• Checks if an issue is already resolved in the latest set\r\n• Auto-drafts spec-compliant RFIs so you hit “send,” not “type”\r\n\r\nContractors save 2-3 weeks per project, cut costly rework, and keep schedules on track.",
+    "location": "San Francisco, CA, USA",
+    "industry": "Real Estate and Construction",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/contextfort"
+  },
+  {
+    "name": "Verne Robotics",
+    "website": "https://vernerobotics.com/",
+    "batch": "Summer 2025",
+    "description": "We build AI software for robotic arms to learn new skills in hours. Our first customer is a unicorn biotech company that uses our robots to package chemical vials and icepacks.",
+    "location": "San Francisco, CA, USA",
+    "industry": "Industrials",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/verne-robotics"
+  },
+  {
+    "name": "Symbia",
+    "website": "https://symbiauto.com",
+    "batch": "Summer 2025",
+    "description": "We help biotechs and CROs generate high-quality IND reports in minutes with AI.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/symbia"
+  },
+  {
+    "name": "Pond",
+    "website": "https://trypond.ai",
+    "batch": "Summer 2025",
+    "description": "We’re building an AI-native messaging app. Pond is a desktop app you can use with your existing messaging services like iMessage (and soon WhatsApp + more). You can see important messages you haven’t replied to, snooze conversations, answer customers in your voice, and more.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/pond"
+  },
+  {
+    "name": "Shor",
+    "website": "https://www.tryshor.com",
+    "batch": "Summer 2025",
+    "description": "Shor is a new Employer-of-Record built from the ground up with AI agents and stablecoins. We enable remote teams to hire and pay global employees at a fraction of the cost. The process is fast, simple, and fully compliant.\r\n\r\nToday, global payroll is broken. Payments take days, cost 5–10% in fees, and force companies to navigate complex banking, tax, and labor regulations. Platforms like Deel and Rippling solved this for large enterprises but remain too expensive and cumbersome for the millions of startups and growing remote teams scaling globally.\r\n\r\nShor fixes this by combining autonomous AI agents with stablecoin-based settlement. Our agents handle contracts, worker classification, compliance, and payroll automatically in a simple, messaging-first experience. Payments can settle in seconds rather than weeks at a fraction of the cost of legacy providers.\r\n\r\nWe are making global payroll fast, affordable, and accessible for the millions of companies left out by legacy platforms.",
+    "location": "San Francisco, CA, USA",
+    "industry": "Fintech",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/shor"
+  },
+  {
+    "name": "Golpo",
+    "website": "https://video.golpoai.com/",
+    "batch": "Summer 2025",
+    "description": "The world's best AI video generator that turns your documents and/or prompts into whiteboard explainer videos. In addition, we have a similar product that generates podcast-style audio explainers from your documents/prompts. API access available for both video and conversational audio. Product of Red Tree Inc. ",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/golpo"
+  },
+  {
+    "name": "Async",
+    "website": "https://www.async.build/",
+    "batch": "Summer 2025",
+    "description": "Async is a platform to manage a team of coding agents from anywhere.\r\nIt lets you issue tasks, then handles coding and testing in the background. Review results on mobile or desktop, preview changes in-app, run tasks in parallel, and move faster than ever before.\r\n\r\nOur mission is to do the work that you don't want to: bug fixes, UI tweaks, papercuts, and KTLO.\r\nDo what's important - delegate the rest to Async.",
+    "location": "",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/async"
+  },
+  {
+    "name": "Lanesurf",
+    "website": "https://www.lanesurf.com/",
+    "batch": "Summer 2025",
+    "description": "We help freight brokers book shipments with vetted carriers at the best price, by negotiating rates across multiple calls in parallel.\r\n",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 4,
+    "yc_url": "https://www.ycombinator.com/companies/lanesurf"
+  },
+  {
+    "name": "truthsystems",
+    "website": "https://www.truthsystems.ai",
+    "batch": "Summer 2025",
+    "description": "Truth Systems provides a compliance agent to govern the use of generative AI. It translates a firm's operational policies into intelligent, real-time guardrails that monitor every AI interaction. This empowers companies to proactively block non-compliant actions and align access to AI tools with user competency. By eliminating the risks and operational blind spots associated with uncontrolled AI adoption, our platform enables enterprises to fully leverage the technology's potential without compromising security. \r\n\r\nWe are establishing the new standard for AI governance, building a future where every professional can innovate safely and confidently.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/truthsystems"
+  },
+  {
+    "name": "AgentMail",
+    "website": "https://agentmail.to",
+    "batch": "Summer 2025",
+    "description": "AgentMail is an email API that gives your agent its own inbox. Think of it like Gmail, but for AI Agents instead of humans.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/agentmail"
+  },
+  {
+    "name": "TraceRoot.AI",
+    "website": "https://traceroot.ai",
+    "batch": "Summer 2025",
+    "description": "TraceRoot.AI is your agentic system for debugging production issues. It has access to logs, traces, source code, commit histories, PRs, issues, Notion, Slack, and more, helping you quickly investigate and resolve issues in complex systems. It visualizes a unified, structured view of your observability data and helps teams debug production issues in complex systems in no time.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/traceroot-ai"
+  },
+  {
+    "name": "Halluminate",
+    "website": "https://halluminate.ai/",
+    "batch": "Summer 2025",
+    "description": "We help foundation model labs and enterprises train computer use AI agents with data and sandboxes.\r\n\r\nA knowledge worker spends 90% of their day on a computer. A productive AI agent must similarly learn how to use our computers, browsers, and software to deliver real world value. \r\n\r\nToday, browser and computer use AI is inaccurate, slow, and expensive. Model labs and enterprises who want to improve these agents are bottlenecked by two resources: \r\n\r\n1) High quality datasets for benchmarking and evaluations\r\n2) Realistic sandbox environments for safe and accurate testing/training (ex. a simulated version of Salesforce) \r\n\r\nHalluminate offers a suite of products and services to address both these issues. \r\n\r\nOur evaluation service combines proprietary datasets with high quality annotations to help our customers identify and prioritize the biggest failure modes of their computer- and browser- use AI. \r\n\r\nOur platform provides a catalog of fully managed sandboxes, empowering our customers to safely and accurately test/train at scale, resulting in improved performance. \r\n\r\nOur customers see\r\n- Improved browser- and computer-use agent performance\r\n- New and emergent frontier agent capabilities\r\n- Data driven prioritization leading to exponentially faster development speed\r\n- Increased revenue/sales via marketing from public benchmarks\r\n\r\nOur paying customers already include leading computer use model labs and the two largest browser agent companies in the space. \r\n\r\nWyatt and Jerry are friends that met their first week of school studying CS at Cornell University. They’ve been working and studying together for 7+ years. \r\n",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/halluminate"
+  },
+  {
+    "name": "MangoDesk",
+    "website": "https://www.mangodesk.com/",
+    "batch": "Summer 2025",
+    "description": "We’re an end-to-end AI platform to source, screen, and manage domain experts to evaluate and improve AI models with high-quality data. \r\n\r\nAGI requires expert-created data and evals across domains, quickly and at volumes. Finding the right experts and creating this data reliably is a complex operational challenge. We solve this end-to-end. \r\n\r\nAnkith was previously an engineer at Scale AI where he built the infrastructure for expert sourcing/screening and Gen AI data labeling operations, and Ananth previously founded a software firm with seven-figure revenue and Fortune 500 customers.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/mangodesk"
+  },
+  {
+    "name": "Acrely",
+    "website": "https://www.acrely.ai",
+    "batch": "Summer 2025",
+    "description": "We provide residential real estate agents voice AI to maximize lead capture and outbound.\r\n\r\nMeet Jane, your AI-powered assistant. When someone calls your number and you don't pick up, Jane does. She talks to your leads, figures out what they need, and helps them — whether it's scheduling a showing, recommending listings, or just making sure serious buyers get a fast response.\r\n\r\nReal estate is one of the last few archaic industries that still uses phone calls as the crux of communication, and voice AI is just getting good enough to make humans willing to engage.\r\n\r\nReal estate is a industry of connections, without a clear break-in strategy, or without industry connections, attempting to pitch to a realtor is like finding a needle in a haystack, as they are already flooded with sales calls.\r\n\r\nRealtors plaster their phone numbers all over the internet, as well as all over the world and are flooded with unqualified leads, drowning out possible five-figure clients. By saving realtors qualified leads and providing the feeling of a human interaction, realtors save tens of thousands in missed opportunities.\r\n\r\n",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/acrely"
+  },
+  {
+    "name": "Closera",
+    "website": "https://closera.com",
+    "batch": "Summer 2025",
+    "description": "We're building AI employees for commercial real estate (CRE) brokerages that are better than today's best analysts.\r\n\r\nWe're starting by automating the workflows done by human brokers while marketing commercial properties (creating listings, staging properties, drafting offering memorandums, and more). We save them time and enable them to personalize materials, so they can do more deals, improve conversion rates, and make more money.\r\n\r\nWe see this as our wedge into the market as we work towards our vision of building a full-stack AI system that handles all the repetitive and time-consuming parts of a CRE broker’s job (and eventually in other industries as well). \r\n\r\nWe envision a future where people in the industry are free from making decks and doing grunt work, so they can focus on the parts of the job they love (or just have more free time for pickleball 🏓)!\r\n\r\nCurious? Check us out at closera.com",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/closera"
+  },
+  {
+    "name": "Planisphere",
+    "website": "https://planisphere.ai/",
+    "batch": "Summer 2025",
+    "description": "Planisphere connects to commercial real estate analyst's inbox and helps them find the 10 deals they are interested from the 500 they receive daily.\r\n\r\nWe replace analysts paid hundreds of thousands of dollars. Turner was one of these and noticed AI was perfect for this job. We are selling this to his old boss and are working with a handful of firms to deploy our product ",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 4,
+    "yc_url": "https://www.ycombinator.com/companies/planisphere"
+  },
+  {
+    "name": "Pingo AI",
+    "website": "https://mypingoai.com",
+    "batch": "Summer 2025",
+    "description": "Pingo AI is an AI language learning app that helps users build fluency through speaking. It immerses learners in realistic dialogues and personalized lessons with an AI tutor who sounds like a native speaker. Our goal is to make learning languages as simple as daily conversations with Pingo — a companion who understands your goals, remembers your progress, and keeps you motivated.",
+    "location": "San Francisco, CA, USA",
+    "industry": "Consumer",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/pingo-ai"
+  },
+  {
+    "name": "Synthetic Society",
+    "website": "https://syntheticsociety.ai/",
+    "batch": "Summer 2025",
+    "description": "",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/synthetic-society"
+  },
+  {
+    "name": "Cactus",
+    "website": "https://www.cactuscompute.com/",
+    "batch": "Summer 2025",
+    "description": "Open-source inference engine for deploying AI locally on smartphones. Available in React-Native, Flutter, and C/C++. Supports multimodal models, text-to-speech, embedding models and more.\r\n\r\nRepo: https://github.com/cactus-compute/cactus\r\nDiscord: https://discord.gg/nPGWGxXSwr",
+    "location": "London, England, United Kingdom",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/cactus"
+  },
+  {
+    "name": "Nixo",
+    "website": "https://withnixo.com/",
+    "batch": "Summer 2025",
+    "description": "",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/nixo"
+  },
+  {
+    "name": "Ambral",
+    "website": "https://www.ambral.com/",
+    "batch": "Summer 2025",
+    "description": "Ambral is an AI account management team that finds the upsell opportunities and churn-risks hiding in your data.\r\n\r\nWe analyze telemetry from customer relationships, synthesizing the critical signals from your messy data to generate dynamic AI models of every account. We pinpoint exactly who needs attention and why, then recommend or autonomously take the right action to drive an expansion, prevent churn, or create a new champion.\r\n\r\nTeam: \r\nSam (CEO): 2x founder. Led AI Product at Everlywell and early PM at Wonder (now valued at $7bn). Lived the pain of losing customer intimacy at scale and is obsessed with solving it. Cornell CS alum.\r\n\r\nJack (CTO): Ex-SpaceX Flight Software Special Projects, where he developed telemetry routing and analysis systems for the most complex machines ever created. He’s now doing the same for the complexities of customer relationships. Cornell CS alum.\r\n\r\nWhy:\r\nAs B2B companies scale, the founder-level customer intimacy that drives early growth becomes impossible to maintain. Customer context that once fit in a founder's head scatters across systems, logs, and communication channels, drowning teams in noise no human can make sense of. Account managers juggling multiple customers become reactive firefighters, bleeding revenue through missed upsells and preventable churn. We've lived this pain and are building Ambral to help teams scale their most valuable asset: customer obsession.",
+    "location": "",
+    "industry": "B2B",
+    "team_size": 2,
+    "yc_url": "https://www.ycombinator.com/companies/ambral"
+  },
+  {
+    "name": "Fluidize",
+    "website": "https://fluidize.ai",
+    "batch": "Summer 2025",
+    "description": "Fluidize accelerates R&D for scientists and engineers by using AI to build and run simulations and experiments. Our platform speeds up development pipelines by automating setup, execution, validation, and scaling, allowing engineers to focus on their science.",
+    "location": "San Francisco, CA, USA",
+    "industry": "B2B",
+    "team_size": 3,
+    "yc_url": "https://www.ycombinator.com/companies/fluidize"
+  }
+]

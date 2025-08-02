@@ -2,6 +2,7 @@ import os
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager  # add this
 
 def create_driver():
     os.environ["CHROME_LOG_FILE"] = os.devnull if os.name != 'nt' else 'nul'
@@ -21,7 +22,8 @@ def create_driver():
         "webrtc.nonproxied_udp_enabled": False,
     })
 
-    service = Service(log_path=os.devnull if os.name != 'nt' else 'nul')
+    # Use webdriver_manager to install the correct ChromeDriver version automatically
+    service = Service(ChromeDriverManager().install())
 
     driver = webdriver.Chrome(service=service, options=options)
     return driver
